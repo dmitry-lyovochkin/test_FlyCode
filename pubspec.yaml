@@ -28,14 +28,12 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   build_runner: ^2.1.10
-  cached_network_image: ^3.2.0
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
   http: ^0.13.4
   json_annotation: ^4.4.0
   json_serializable: ^6.1.6
-  shared_preferences: ^2.0.13
 
 dev_dependencies:
   flutter_lints: ^1.0.0
